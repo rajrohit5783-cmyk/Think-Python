@@ -181,23 +181,23 @@
 # dis_gr(greet())
 
 
-name = ["Rohit" , "Mihika" , "Ansh" , 23.89 , 8 , True ]
-print(name)
+# name = ["Rohit" , "Mihika" , "Ansh" , 23.89 , 8 , True ]
+# print(name)
 
-print(name[3])
-print(name[-2])
-print(type(name[5]))
+# print(name[3])
+# print(name[-2])
+# print(type(name[5]))
 
-print(name[-4:-1])
+# print(name[-4:-1])
 
-name.append(False)
-print(name)
+# name.append(False)
+# print(name)
 
-name.insert(3,"Abhinav")
-print(name)
+# name.insert(3,"Abhinav")
+# print(name)
 
-n = 0
-Marks =[]
+# n = 0
+# Marks =[]
 # A= int(input("Enter Your marks: "))
 # # Marks.append(A)
 # Marks.insert(2,A)
@@ -213,6 +213,44 @@ Marks =[]
 # print(Marks)
 # print(type(Marks))
 
-name1 = ["Rohit" , "Mihika" , "Ansh" , 23 , 8 ]
-name1[-1:-2] = 2
-print(name1)
+# name1 = ["Rohit" , "Mihika" , "Ansh" , 23 , 8 ]
+# name1[-1:-2] = 2
+# print(name1)
+
+# data = [16,19,25]
+
+# for x in data:
+#     print(data[x])
+
+
+# data = [10,12,25,30]
+# data = "Rohit"
+# data = (10,23,34)
+# it = iter(data)
+
+# print(next(it))
+# print(next(it))
+# print(next(it))
+# # print(next(it))
+# # print(next(it))
+
+
+# print(type(it))
+# print(type(data))
+
+
+# def name(n):
+#     na = n
+#     return na
+
+# A = name("Rohit")
+
+# print(A)
+
+def Print_Num():
+    return 10
+    return 20  
+    return 30
+
+data = Print_Num()
+print(data)
