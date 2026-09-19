@@ -247,10 +247,73 @@
 
 # print(A)
 
-def Print_Num():
-    return 10
-    return 20  
-    return 30
+# def Print_Num():
+#     yield 10
+#     yield 20  
+#     yield 30
 
-data = Print_Num()
+# data = Print_Num()
+# print(next(data))
+# print(next(data))
+# print(next(data))
+
+
+# def print_data():
+#     print("hello")
+#     print_data()
+    
+# print_data()
+
+# def factorial (n):
+    
+#     if n==1:
+#         return 1
+#     return n * factorial(n-1)
+
+# data = factorial(11)
+# print(data)
+
+
+# def rev (n):
+#     if n==1:
+#         return 1
+#     return n , rev(n-1)
+
+# reve = rev(4)
+# print(reve)
+
+# data = (12, 3.6, 345, 3456, True,False, [2,3,"Rohit", True])
+# print(data)
+# print(type(data))
+
+# data1 = (0,)
+# print(data1)
+# print(type(data1))
+
+# print(data[len(data)-1])
+
+# data [3:6]
+
+# # data[4] = 43
+# print(data)
+
+# for datas in data: 
+#     print(data)
+
+data = {
+    "Name": "Rohit",
+    "Age": 20,
+    "city": "Muzaffarpur",
+    "isAlive" : False,
+    
+}
+
 print(data)
+
+print(data["isAlive"])
+    
+
+
+
+
+
