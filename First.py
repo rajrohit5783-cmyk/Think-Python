@@ -300,18 +300,43 @@
 # for datas in data: 
 #     print(data)
 
-data = {
-    "Name": "Rohit",
-    "Age": 20,
-    "city": "Muzaffarpur",
-    "isAlive" : False,
+# data = {
+#     "Name": "Rohit",
+#     "Age": 20,
+#     "city": "Muzaffarpur",
+#     "isAlive" : False,
     
-}
+# }
 
-print(data)
+# print(data)
 
-print(data["isAlive"])
-    
+# print(data["isAlive"])
+# data["city"] = "Jaipur"
+# print(data)
+
+
+# del data["isAlive"]
+# print(data)
+
+# for item in data:
+#     print(item)
+
+set = {34,"Rohit",56,34,True, False,56}
+print(type(set))
+
+print(set)
+
+
+for items in set:
+    print(items)
+
+
+
+set.add(456)
+print(set)
+set.pop()
+print(set)
+
 
 
 
