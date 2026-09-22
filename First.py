@@ -333,6 +333,9 @@ for items in set:
 
 
 set.add(456)
+
+
+
 print(set)
 set.pop()
 print(set)
