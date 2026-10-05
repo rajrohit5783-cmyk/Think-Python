@@ -321,24 +321,50 @@
 # for item in data:
 #     print(item)
 
-set = {34,"Rohit",56,34,True, False,56}
-print(type(set))
+# set = {34,"Rohit",56,34,True, False,56}
+# print(type(set))
 
-print(set)
-
-
-for items in set:
-    print(items)
+# print(set)
 
 
-
-set.add(456)
+# for items in set:
+#     print(items)
 
 
 
-print(set)
-set.pop()
-print(set)
+# set.add(456)
+
+
+
+# print(set)
+# set.pop()
+# print(set)
+
+
+# A = open("data.txt", "r")
+# data = A.read()
+# print(data)
+# A.close()
+
+# with open("data.txt","r") as file:
+#     data = file.readline(5)
+#     data1 = file.readline()
+#     print(data);
+#     print(data1);
+    
+with open("data.txt","r") as file:
+    data = file.readlines()
+    
+    data1 = data[0]
+    
+    for i in data:
+        print(i)
+        
+    # print(data1)
+   
+    # print(data);
+  
+   
 
 
 
