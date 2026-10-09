@@ -352,22 +352,40 @@
 #     print(data);
 #     print(data1);
     
-with open("data.txt","r") as file:
-    data = file.readlines()
+# with open("data.txt","r") as file:
+#     data = file.readlines()
     
-    data1 = data[0]
+#     data1 = data[0]
     
-    for i in data:
-        print(i)
+#     for i in data:
+#         print(i)
         
     # print(data1)
    
-    # print(data);
-  
-   
+    # print(data)
 
+# with open("data.txt", "a") as file:
+#     file.write("My Name is Rohit");
+    
 
+# with open("data.txt", "r") as file:
+#     print(file.read());
 
+# with open("data1.txt","x") as file:
+#     file.write("\nI'm 20 yrs old");
+# with open("data1.txt", "r") as file:
+#     print(file.read());
 
-
-
+# with open("data4.txt","a+") as file:
+#     file.write("How r u ");
+#     print(file.read());
+#     file.seek(0);
+#     print(file.read());
+#     file.write("qwertyui");
+    
+    # data = file.read();
+    # print("Old data", data);
+    # file.write(" New content");
+    # print(file.read());
+with open("./had-iphone-for-3-yrs-this-phone-4a-pro-made-me-forget-in-v0-hl2jeuas5cbh1.webp","r") as file:
+    print(file.read());
