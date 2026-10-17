@@ -1,0 +1,151 @@
+student_id,name,age,city,course,department,marks,attendance_pct,passed,fees_paid,semester
+1001,Aarav Sharma,18,Jaipur,CSE,Engineering,23,50.0,False,True,1
+1002,Sara Ali,25,Lucknow,ME,Mechanical,40,51.3,True,False,2
+1003,Manav Jain,25,Hyderabad,CSE,Engineering,57,52.6,True,True,3
+1004,Ira Sinha,24,Kolkata,ME,Mechanical,74,53.9,True,True,4
+1005,Kabir Khan,24,Indore,CSE,Engineering,91,55.2,True,False,5
+1006,Tanya Mishra,23,Mumbai,Civil,Civil,7,56.5,False,True,6
+1007,Rahul Mehta,23,Bhopal,IT,Computing,24,57.8,False,False,7
+1008,Aarav Sharma,22,Delhi,Civil,Civil,41,59.1,True,True,8
+1009,Dev Malhotra,22,Ahmedabad,IT,Computing,58,60.4,True,True,1
+1010,Zoya Sheikh,21,Jaipur,Civil,Civil,75,61.7,True,False,2
+1011,Neel Shah,21,Lucknow,ECE,Electronics,92,63.0,True,True,3
+1012,Kabir Khan,20,Hyderabad,Data Science,Analytics,8,64.3,False,False,4
+1013,Vikram Rao,20,Kolkata,ECE,Electronics,25,65.6,False,True,5
+1014,Simran Kaur,19,Indore,Data Science,Analytics,42,66.9,True,True,6
+1015,Priya Verma,19,Mumbai,ECE,Electronics,59,68.2,True,False,7
+1016,Dev Malhotra,18,Bhopal,CSE,Engineering,76,69.5,True,True,8
+1017,Aditya Bose,18,Delhi,ME,Mechanical,93,70.8,True,False,1
+1018,Pooja Yadav,25,Ahmedabad,CSE,Engineering,9,72.1,False,True,2
+1019,Meera Joshi,25,Jaipur,ME,Mechanical,26,73.4,False,True,3
+1020,Vikram Rao,24,Lucknow,CSE,Engineering,43,74.7,True,False,4
+1021,Yash Agarwal,24,Hyderabad,Civil,Civil,60,76.0,True,True,5
+1022,Rohan Singh,23,Kolkata,IT,Computing,77,77.3,True,False,6
+1023,Nisha Roy,23,Indore,Civil,Civil,94,78.6,True,True,7
+1024,Aditya Bose,22,Mumbai,IT,Computing,10,79.9,False,True,8
+1025,Rehan Ansari,22,Bhopal,Civil,Civil,27,81.2,False,False,1
+1026,Ishaan Patel,21,Delhi,ECE,Electronics,44,82.5,True,True,2
+1027,Diya Kapoor,21,Ahmedabad,Data Science,Analytics,61,83.8,True,False,3
+1028,Yash Agarwal,20,Jaipur,ECE,Electronics,78,85.1,True,True,4
+1029,Ananya Gupta,20,Lucknow,Data Science,Analytics,95,86.4,True,True,5
+1030,Arjun Das,19,Hyderabad,ECE,Electronics,11,87.7,False,False,6
+1031,Kavya Nair,19,Kolkata,CSE,Engineering,28,89.0,False,True,7
+1032,Rehan Ansari,18,Indore,ME,Mechanical,45,90.3,True,False,8
+1033,Sara Ali,18,Mumbai,CSE,Engineering,62,91.6,True,True,1
+1034,Manav Jain,25,Bhopal,ME,Mechanical,79,92.9,True,True,2
+1035,Ira Sinha,25,Delhi,CSE,Engineering,96,94.2,True,False,3
+1036,Ananya Gupta,24,Ahmedabad,Civil,Civil,12,95.5,False,True,4
+1037,Tanya Mishra,24,Jaipur,IT,Computing,29,96.8,False,False,5
+1025,Rehan Ansari,22,Bhopal,Civil,Civil,27,81.2,False,False,1
+1039,Aarav Sharma,23,Hyderabad,IT,Computing,63,99.4,True,True,7
+1040,Sara Ali,22,Kolkata,Civil,Civil,80,50.6,True,False,8
+1041,Zoya Sheikh,22,Indore,ECE,Electronics,97,51.9,True,True,1
+1042,Neel Shah,21,Mumbai,Data Science,Analytics,13,53.2,False,False,2
+1043,Kabir Khan,21,Bhopal,ECE,Electronics,30,54.5,False,True,3
+1044,Tanya Mishra,20,Delhi,Data Science,Analytics,47,55.8,True,True,4
+1045,Simran Kaur,20,Ahmedabad,ECE,Electronics,64,57.1,True,False,5
+1046,Priya Verma,19,Jaipur,CSE,Engineering,81,58.4,True,True,6
+1047,Dev Malhotra,19,Lucknow,ME,Mechanical,98,59.7,True,False,7
+1048,Zoya Sheikh,18,Hyderabad,CSE,Engineering,14,61.0,False,True,8
+1049,Pooja Yadav,18,Kolkata,ME,Mechanical,31,62.3,False,True,1
+1050,Meera Joshi,25,Indore,CSE,Engineering,48,63.6,True,False,2
+1051,Vikram Rao,25,Mumbai,Civil,Civil,65,64.9,True,True,3
+1052,Simran Kaur,24,Bhopal,IT,Computing,82,66.2,True,False,4
+1053,Rohan Singh,24,Delhi,Civil,Civil,99,67.5,True,True,5
+1054,Nisha Roy,23,Ahmedabad,IT,Computing,15,68.8,False,True,6
+1055,Aditya Bose,23,Jaipur,Civil,Civil,32,70.1,False,False,7
+1056,Pooja Yadav,22,Lucknow,ECE,Electronics,49,71.4,True,True,8
+1057,Ishaan Patel,22,Hyderabad,Data Science,Analytics,66,72.7,True,False,1
+1058,Diya Kapoor,21,Kolkata,ECE,Electronics,83,74.0,True,True,2
+1059,Yash Agarwal,21,Indore,Data Science,Analytics,100,75.3,True,True,3
+1060,Rohan Singh,20,Mumbai,ECE,Electronics,16,76.6,False,False,4
+1061,Arjun Das,20,Bhopal,CSE,Engineering,33,77.9,False,True,5
+1062,Kavya Nair,19,Delhi,ME,Mechanical,50,79.2,True,False,6
+1063,Rehan Ansari,19,Ahmedabad,CSE,Engineering,67,80.5,True,True,7
+1064,Ishaan Patel,18,Jaipur,ME,Mechanical,84,81.8,True,True,8
+1065,Manav Jain,18,Lucknow,CSE,Engineering,0,83.1,False,False,1
+1066,Ira Sinha,25,Hyderabad,Civil,Civil,17,84.4,False,True,2
+1067,Ananya Gupta,25,Kolkata,IT,Computing,34,85.7,False,False,3
+1068,Arjun Das,24,Indore,Civil,Civil,51,87.0,True,True,4
+1069,Rahul Mehta,24,Mumbai,IT,Computing,68,88.3,True,True,5
+1070,Aarav Sharma,23,Bhopal,Civil,Civil,85,89.6,True,False,6
+1071,Sara Ali,23,Delhi,ECE,Electronics,1,90.9,False,True,7
+1072,Manav Jain,22,Ahmedabad,Data Science,Analytics,18,92.2,False,False,8
+1073,Neel Shah,22,Jaipur,ECE,Electronics,35,93.5,False,True,1
+1074,Kabir Khan,21,Lucknow,Data Science,Analytics,52,94.8,True,True,2
+1062,Kavya Nair,19,Delhi,ME,Mechanical,50,79.2,True,False,6
+1076,Rahul Mehta,20,Kolkata,CSE,Engineering,86,97.4,True,True,4
+1077,Priya Verma,20,Indore,ME,Mechanical,2,98.7,False,False,5
+1078,Dev Malhotra,19,Mumbai,CSE,Engineering,19,100.0,False,True,6
+1079,Zoya Sheikh,19,Bhopal,ME,Mechanical,36,51.2,False,True,7
+1080,Neel Shah,18,Delhi,CSE,Engineering,53,52.5,True,False,8
+1081,Meera Joshi,18,Ahmedabad,Civil,Civil,70,53.8,True,True,1
+1082,Vikram Rao,25,Jaipur,IT,Computing,87,55.1,True,False,2
+1083,Simran Kaur,25,Lucknow,Civil,Civil,3,56.4,False,True,3
+1084,Priya Verma,24,Hyderabad,IT,Computing,20,57.7,False,True,4
+1085,Nisha Roy,24,Kolkata,Civil,Civil,37,59.0,False,False,5
+1086,Aditya Bose,23,Indore,ECE,Electronics,54,60.3,True,True,6
+1087,Pooja Yadav,23,Mumbai,Data Science,Analytics,71,61.6,True,False,7
+1088,Meera Joshi,22,Bhopal,ECE,Electronics,88,62.9,True,True,8
+1089,Diya Kapoor,22,Delhi,Data Science,Analytics,4,64.2,False,True,1
+1090,Yash Agarwal,21,Ahmedabad,ECE,Electronics,21,65.5,False,False,2
+1091,Rohan Singh,21,Jaipur,CSE,Engineering,38,66.8,False,True,3
+1092,Nisha Roy,20,Lucknow,ME,Mechanical,55,68.1,True,False,4
+1093,Kavya Nair,20,Hyderabad,CSE,Engineering,72,69.4,True,True,5
+1094,Rehan Ansari,19,Kolkata,ME,Mechanical,89,70.7,True,True,6
+1095,Ishaan Patel,19,Indore,CSE,Engineering,5,72.0,False,False,7
+1096,Diya Kapoor,18,Mumbai,Civil,Civil,22,73.3,False,True,8
+1097,Ira Sinha,18,Bhopal,IT,Computing,39,74.6,False,False,1
+1098,Ananya Gupta,25,Delhi,Civil,Civil,56,75.9,True,True,2
+1099,Arjun Das,25,Ahmedabad,IT,Computing,73,77.2,True,True,3
+1100,Kavya Nair,24,Jaipur,Civil,Civil,90,78.5,True,False,4
+1101,Aarav Sharma,24,Lucknow,ECE,Electronics,6,79.8,False,True,5
+1102,Sara Ali,23,Hyderabad,Data Science,Analytics,23,81.1,False,False,6
+1103,Manav Jain,23,Kolkata,ECE,Electronics,40,82.4,True,True,7
+1104,Ira Sinha,22,Indore,Data Science,Analytics,57,83.7,True,True,8
+1105,Kabir Khan,22,Mumbai,ECE,Electronics,74,85.0,True,False,1
+1106,Tanya Mishra,21,Bhopal,CSE,Engineering,91,86.3,True,True,2
+1107,Rahul Mehta,21,Delhi,ME,Mechanical,7,87.6,False,False,3
+1108,Aarav Sharma,20,Ahmedabad,CSE,Engineering,24,88.9,False,True,4
+1109,Dev Malhotra,20,Jaipur,ME,Mechanical,41,90.2,True,True,5
+1110,Zoya Sheikh,19,Lucknow,CSE,Engineering,58,91.5,True,False,6
+1111,Neel Shah,19,Hyderabad,Civil,Civil,75,92.8,True,True,7
+1099,Arjun Das,25,Ahmedabad,IT,Computing,73,77.2,True,True,3
+1113,Vikram Rao,18,Indore,Civil,Civil,8,95.4,False,True,1
+1114,Simran Kaur,25,Mumbai,IT,Computing,25,96.7,False,True,2
+1115,Priya Verma,25,Bhopal,Civil,Civil,42,98.0,True,False,3
+1116,Dev Malhotra,24,Delhi,ECE,Electronics,59,99.3,True,True,4
+1117,Aditya Bose,24,Ahmedabad,Data Science,Analytics,76,50.5,True,False,5
+1118,Pooja Yadav,23,Jaipur,ECE,Electronics,93,51.8,True,True,6
+1119,Meera Joshi,23,Lucknow,Data Science,Analytics,9,53.1,False,True,7
+1120,Vikram Rao,22,Hyderabad,ECE,Electronics,26,54.4,False,False,8
+1121,Yash Agarwal,22,Kolkata,CSE,Engineering,43,55.7,True,True,1
+1122,Rohan Singh,21,Indore,ME,Mechanical,60,57.0,True,False,2
+1123,Nisha Roy,21,Mumbai,CSE,Engineering,77,58.3,True,True,3
+1124,Aditya Bose,20,Bhopal,ME,Mechanical,94,59.6,True,True,4
+1125,Rehan Ansari,20,Delhi,CSE,Engineering,10,60.9,False,False,5
+1126,Ishaan Patel,19,Ahmedabad,Civil,Civil,27,62.2,False,True,6
+1127,Diya Kapoor,19,Jaipur,IT,Computing,44,63.5,True,False,7
+1128,Yash Agarwal,18,Lucknow,Civil,Civil,61,64.8,True,True,8
+1129,Ananya Gupta,18,Hyderabad,IT,Computing,78,66.1,True,True,1
+1130,Arjun Das,25,Kolkata,Civil,Civil,95,67.4,True,False,2
+1131,Kavya Nair,25,Indore,ECE,Electronics,11,68.7,False,True,3
+1132,Rehan Ansari,24,Mumbai,Data Science,Analytics,28,70.0,False,False,4
+1133,Sara Ali,24,Bhopal,ECE,Electronics,45,71.3,True,True,5
+1134,Manav Jain,23,Delhi,Data Science,Analytics,62,72.6,True,True,6
+1135,Ira Sinha,23,Ahmedabad,ECE,Electronics,79,73.9,True,False,7
+1136,Ananya Gupta,22,Jaipur,CSE,Engineering,96,75.2,True,True,8
+1137,Tanya Mishra,22,Lucknow,ME,Mechanical,12,76.5,False,False,1
+1138,Rahul Mehta,21,Hyderabad,CSE,Engineering,29,77.8,False,True,2
+1139,Aarav Sharma,21,Kolkata,ME,Mechanical,46,79.1,True,True,3
+1140,Sara Ali,20,Indore,CSE,Engineering,63,80.4,True,False,4
+1141,Zoya Sheikh,20,Mumbai,Civil,Civil,80,81.7,True,True,5
+1142,Neel Shah,19,Bhopal,IT,Computing,97,83.0,True,False,6
+1143,Kabir Khan,19,Delhi,Civil,Civil,13,84.3,False,True,7
+1144,Tanya Mishra,18,Ahmedabad,IT,Computing,30,85.6,False,True,8
+1145,Simran Kaur,18,Jaipur,Civil,Civil,47,86.9,True,False,1
+1146,Priya Verma,25,Lucknow,ECE,Electronics,64,88.2,True,True,2
+1147,Dev Malhotra,25,Hyderabad,Data Science,Analytics,81,89.5,True,False,3
+1148,Zoya Sheikh,24,Kolkata,ECE,Electronics,98,90.8,True,True,4
+1136,Ananya Gupta,22,Jaipur,CSE,Engineering,96,75.2,True,True,8
+1150,Meera Joshi,23,Mumbai,ECE,Electronics,31,93.4,False,False,6
