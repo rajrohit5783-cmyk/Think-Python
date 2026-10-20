@@ -34,7 +34,26 @@ datframe = pd.DataFrame(data);
 data1 = pd.read_csv("./student_data_150.csv");
 data2 = pd.read_json("./student_data_150.json");
 data3 = pd.read_excel("./student_data_150.xlsx");
-# print(data1)
+# print(data1);
 # print(data2);
-print(data3);
 
+
+# print(data1.loc[1,"name"]);
+# print(data1.iloc[1,1])
+
+# print(data1[5:10]);
+# print(data1.isnull());
+# print(data1.isnull().sum());
+# print(data1.dtypes);
+# print(data1['city'].unique());
+# print(data1.dropna());
+# data1['age'] =  data1['age'].fillna(data1['age'].mode());
+# print(data1);
+# print(data1.duplicated());
+# print(data1.duplicated().sum());
+# print(data1.drop_duplicates(inplace=True));
+# print(data1.duplicated().sum());
+# print(data1.dtypes);
+# print(data1["age"]< 13);
+data1["name"] = data1['name'].str.lower();
+print(data1);
